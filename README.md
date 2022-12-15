@@ -1,3 +1,7 @@
+Clone the file and install python requirements
+```md
+pip install -r requirements.txt
+```
 
 **Dataset link:**
 https://grouplens.org/datasets/movielens/latest/
